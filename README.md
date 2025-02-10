@@ -1,19 +1,19 @@
 <div align="center">
 <a href="https://privatenotes.pro"><img src="./assets/icon.png" width="280" alt="PrivateNotes" align="center"/></a>
-<h1>PrivateNotes</h1>
+<h1>PrivateNotes.pro</h1>
 <p>AES-GCM + PBKDF2 Encryption | Markdown and WYSIWYG Editor | Backlinking | Network Graph | Mind Mapping | Syntax Highlighting | Local-First (No Cloud Reliance) | Cross-Platform (macOS, Windows, Linux) | Organised Idea Management</p>
 <div align="center">
 <a href="https://privatenotes.pro"><img src="https://img.shields.io/badge/download%20now-orange?style=for-the-badge" alt="Download Now"/></a>
-<a href="https://github.com/diegolealco/PrivateNotes/releases"><img src="https://img.shields.io/github/release/diegolealco/PrivateNotes.svg?color=orange&include_prereleases&logo=github&style=for-the-badge" alt="latest version"/></a>
+<a href="https://github.com/diegolealco/PrivateNotes.pro/releases"><img src="https://img.shields.io/github/release/diegolealco/PrivateNotes.pro.svg?color=orange&include_prereleases&logo=github&style=for-the-badge" alt="latest version"/></a>
 <a href="https://snapcraft.io/exocortex"><img src="https://img.shields.io/snapcraft/last-update/exocortex/latest/stable?color=orange&logo=snapcraft&style=for-the-badge" alt="Snapscraft"/></a>
 </div>
 </div>
 
-## **About PrivateNotes (Formerly Exocortex)**
+## **About PrivateNotes.pro (Formerly Exocortex)**
 
-PrivateNotes is a personal knowledge management tool for thinkers, creators, and organisers. Designed to mimic how your mind works, it lets you connect ideas into a network of thought—securely and privately. With cross-platform compatibility and industry-standard encryption, it’s perfect for making sense of complexity.
+PrivateNotes.pro is a personal knowledge management tool for thinkers, creators, and organisers. Designed to mimic how your mind works, it lets you connect ideas into a network of thought—securely and privately. With cross-platform compatibility and industry-standard encryption, it’s perfect for making sense of complexity.
 
-![Screenshot of PrivateNotes interface demonstrating node-based thinking.](./assets/screenshot.png)
+![Screenshot of PrivateNotes.pro interface demonstrating node-based thinking.](./assets/screenshot.png)
 
 ## Key Features
 
@@ -25,9 +25,9 @@ PrivateNotes is a personal knowledge management tool for thinkers, creators, and
 - **Cross-Platform**: Available on macOS, Windows, and Linux.
 - **Customisable Themes**: Personalise your workspace with a selection of pre-made themes.
 - **Offline Access**: Work without an internet connection, keeping your data on your device.
-- **Regular Updates**: Continuous improvements and new features keep PrivateNotes evolving to meet your needs.
+- **Regular Updates**: Continuous improvements and new features keep PrivateNotes.pro evolving to meet your needs.
 
-## **Who is PrivateNotes For?**
+## **Who is PrivateNotes.pro For?**
 
 ### Academic and Research Communities
 
@@ -105,13 +105,14 @@ PrivateNotes is a personal knowledge management tool for thinkers, creators, and
 
 1. Head over to [privatenotes.pro](https://privatenotes.pro) and download the installer for your operating system.
 2. Run the installer and follow the prompts.
-3. Launch PrivateNotes and start building your networked thoughts!
+3. Launch PrivateNotes.pro and start building your networked thoughts!
 
-Need help? Check out our [Discussions](https://github.com/diegolealco/PrivateNotes/discussions), [Issue Tracker](https://github.com/diegolealco/PrivateNotes/issues), or get in touch via [Twitter](https://twitter.com/privatenotesapp) or send a quick email at `support@privatenotes.pro`.
+Need help? Check out our [Discussions](https://github.com/diegolealco/PrivateNotes.pro/discussions), [Issue Tracker](https://github.com/diegolealco/PrivateNotes.pro/issues), or get in touch via [Twitter](https://twitter.com/privatenotespro) or send a quick email at `support@privatenotes.pro`.
 
-## **Licensing Information**
+## **Support Development (Snooze those friendly reminders indefinitely 😴)**
 
-PrivateNotes is completely free to use with no limitations or locked features.
-To support development and remove occasional support-us popups, purchase a **Supporter Code** for $25 USD per year.
+You can try out PrivateNotes.pro for free with no limitations or locked features.
 
-[Purchase a Supporter License](#)
+To support development and remove those occasional support-us popups, get a Supporter Code! It's a one-time contribution that keeps PrivateNotes.pro independent—and gives your “Close” button a well-deserved rest.
+
+[Purchase a Supporter Code](#)
